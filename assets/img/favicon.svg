@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo sekolah">
+  <path d="M32 3 58 12v20c0 15-10.5 24.5-26 29C16.5 56.5 6 47 6 32V12z" fill="#1B2F7A"/>
+  <path d="M32 21c-4-3-10-4-17-3v21c7-1 13 0 17 3 4-3 10-4 17-3V18c-7-1-13 0-17 3z" fill="#F5B921"/>
+  <path d="M32 21v21" stroke="#1B2F7A" stroke-width="2.5"/>
+  <circle cx="32" cy="12" r="3" fill="#fff"/>
+</svg>

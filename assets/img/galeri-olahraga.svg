@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Ilustrasi lapangan olahraga">
+  <rect width="600" height="400" fill="#CFE6FA"/><circle cx="500" cy="70" r="28" fill="#F5B921"/>
+  <rect y="230" width="600" height="170" fill="#5FA85A"/>
+  <path d="M60 390 160 240h280l100 150z" fill="none" stroke="#fff" stroke-width="4"/><path d="M300 240v150" stroke="#fff" stroke-width="4"/>
+  <rect x="96" y="80" width="10" height="160" fill="#5B6F8F"/><rect x="60" y="60" width="86" height="56" fill="#fff" stroke="#1B2F7A" stroke-width="4"/>
+  <rect x="86" y="86" width="34" height="24" fill="none" stroke="#D8432F" stroke-width="3"/><ellipse cx="103" cy="122" rx="20" ry="6" fill="none" stroke="#D8432F" stroke-width="5"/>
+  <circle cx="400" cy="300" r="26" fill="#F28C28" stroke="#7A3E10" stroke-width="3"/><path d="M374 300h52M400 274v52" stroke="#7A3E10" stroke-width="3"/>
+</svg>

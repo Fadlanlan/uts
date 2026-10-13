@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Foto kepala sekolah (ganti dengan foto asli)">
+  <rect width="200" height="200" fill="#DCE8F7"/>
+  <path d="M20 200c4-44 36-62 80-62s76 18 80 62z" fill="#1B2F7A"/>
+  <path d="M82 140l18 26 18-26z" fill="#fff"/>
+  <path d="M97 150h6l3 38h-12z" fill="#D8432F"/>
+  <rect x="88" y="112" width="24" height="30" rx="8" fill="#D9A27A"/>
+  <ellipse cx="100" cy="84" rx="30" ry="34" fill="#D9A27A"/>
+  <path d="M69 80c-2-30 18-40 34-38 18 2 29 16 28 38-6-14-14-20-30-20-14 0-24 6-32 20z" fill="#2A2A2A"/>
+  <circle cx="89" cy="88" r="3" fill="#2A2A2A"/><circle cx="111" cy="88" r="3" fill="#2A2A2A"/>
+  <path d="M91 103c5 5 13 5 18 0" stroke="#7A3E2A" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
